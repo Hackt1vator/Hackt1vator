@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🕑︎ Time Zone: America/New_York
+🕑︎ Time Zone: Germany
 
 💬 Programming Languages: 
 TypeScript               8 hrs 6 mins        ███████████████████████░░   92.40 % 
